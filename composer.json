@@ -1,0 +1,12 @@
+{
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "firebase/php-jwt": "^6.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Conexion\\": "conexion/",
+            "Utils\\": "utils/"
+        }
+    }
+}
